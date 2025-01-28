@@ -7,4 +7,6 @@ class ColorTheme {
   static Color white = Colors.white;
   static Color red = Colors.red;
   static Color green = Colors.green;
+  static Color grey = Colors.grey;
+  static Color cardcolor = Color.fromARGB(255, 235, 225, 230);
 }
